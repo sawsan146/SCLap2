@@ -1,3 +1,4 @@
+// Hello ITI
 public class HelloITI
 {
     public void printHelloITI()
@@ -7,5 +8,7 @@ public class HelloITI
     public void printHelloGit()
     {
         Console.WriteLine("Hello Git");
+        Console.WriteLine("welcom git");
     }
+    
 }
